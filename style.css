@@ -3,8 +3,13 @@ background-color: #000000;
 padding: 2px;
 height: 100%;
 font-family: 'IBM Plex Sans', sans-serif;
-				
+	
+display:flex;
+flex-direction: column;	
+justify-content: center;
+align items:center;
 }
+
 
 p{
     background-color: rgb(0, 0, 0);
